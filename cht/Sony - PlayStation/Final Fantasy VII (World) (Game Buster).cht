@@ -52,3 +52,6 @@ cheat12_desc = "All Characters"
 cheat12_code = "801D3424+0100+801D3426+0302+801D3428+0504+801D342A+0706+801D342C+FF08"
 cheat12_enable = false 
 
+cheat13_desc = "limite Clad"
+cheat13_code = "8009C84E+FFFF+8009C850+FFFF+8009C852+FFFF"
+cheat13_enable = false 
